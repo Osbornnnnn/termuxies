@@ -6,10 +6,10 @@ Connect to servers over SSH, transfer files with SFTP, and manage terminal sessi
 
 ## Releases
 
-<!-- downloads 1970-01-01T00:00:00Z -->
-| Platform | Desktop downloads |
+<!-- downloads 2026-11-25T10:09:54Z -->
+| Platform | Download Desktop v0.13.0 |
 | --- | --- |
-| Windows x64 | Installer and standalone EXE coming with the first public release |
-| Linux x64 | Executable coming with the first public release |
-| macOS · Apple Silicon | Disk image coming with the first public release |
+| Windows x64 | [Installer](https://github.com/Osbornnnnn/termuxies/releases/download/v0.13.0/termuxies-v0.13.0-windows-amd64-installer.exe) · [Standalone EXE](https://github.com/Osbornnnnn/termuxies/releases/download/v0.13.0/termuxies-v0.13.0-windows-amd64.exe) |
+| Linux x64 | [Executable](https://github.com/Osbornnnnn/termuxies/releases/download/v0.13.0/termuxies-v0.13.0-linux-amd64) |
+| macOS · Apple Silicon | [Disk image](https://github.com/Osbornnnnn/termuxies/releases/download/v0.13.0/termuxies-v0.13.0-macos-arm64.dmg) |
 <!-- /downloads -->
